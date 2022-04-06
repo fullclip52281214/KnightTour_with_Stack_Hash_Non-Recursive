@@ -6,4 +6,4 @@ Change the board size at the top of the code.
 
 Output will show the solution step by step like this
 
-![image](https://github.com/fullclip52281214/-KnightTour_with_Stack_Hash_Non-Recursive/blob/master/Image/OutputSample.png)
+![image](https://github.com/fullclip52281214/KnightTour_with_Stack_Hash_Non-Recursive/blob/master/Image/OutputSample.png?raw=true)
